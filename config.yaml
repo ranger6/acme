@@ -1,4 +1,5 @@
 baseURL: http://muir.remulac.fr/
 languageCode: en-us
 title: Acme Site
-theme: github.com/hugoinaction/Eclectic
+#theme: github.com/hugoinaction/Eclectic
+theme: ananke
