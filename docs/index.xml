@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Site</title>
+    <link>https://ranger6.github.io/acme/</link>
+    <description>Recent content on Acme Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jan 2020 08:55:59 +0100</lastBuildDate>
+    
+	<atom:link href="https://ranger6.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fifth</title>
+      <link>https://ranger6.github.io/acme/post/fifth/</link>
+      <pubDate>Tue, 21 Jan 2020 08:55:59 +0100</pubDate>
+      
+      <guid>https://ranger6.github.io/acme/post/fifth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourth</title>
+      <link>https://ranger6.github.io/acme/post/fourth/</link>
+      <pubDate>Tue, 21 Jan 2020 08:55:48 +0100</pubDate>
+      
+      <guid>https://ranger6.github.io/acme/post/fourth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>https://ranger6.github.io/acme/posts/third/</link>
+      <pubDate>Tue, 21 Jan 2020 08:30:51 +0100</pubDate>
+      
+      <guid>https://ranger6.github.io/acme/posts/third/</guid>
+      <description>Third time&#39;s a charm.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://ranger6.github.io/acme/post/second/</link>
+      <pubDate>Tue, 21 Jan 2020 08:29:55 +0100</pubDate>
+      
+      <guid>https://ranger6.github.io/acme/post/second/</guid>
+      <description>In the wrong place.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://ranger6.github.io/acme/posts/my-first-post/</link>
+      <pubDate>Tue, 31 Dec 2019 16:40:31 +0100</pubDate>
+      
+      <guid>https://ranger6.github.io/acme/posts/my-first-post/</guid>
+      <description>Hello, World!</description>
+    </item>
+    
+  </channel>
+</rss>

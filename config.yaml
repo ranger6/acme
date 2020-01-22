@@ -1,4 +1,8 @@
-baseURL: http://muir.remulac.fr/
+baseURL: https://ranger6.github.io/acme/
+#baseURL: http://muir.remulac.fr/
+#baseURL: ""
+#relativeURLs: true
+publishDir: "docs"
 languageCode: en-us
 title: Acme Site
 #theme: github.com/hugoinaction/Eclectic

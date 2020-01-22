@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/</loc>
+    <lastmod>2020-01-21T08:55:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/post/fifth/</loc>
+    <lastmod>2020-01-21T08:55:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/post/</loc>
+    <lastmod>2020-01-21T08:55:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/post/fourth/</loc>
+    <lastmod>2020-01-21T08:55:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/posts/</loc>
+    <lastmod>2020-01-21T08:30:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/posts/third/</loc>
+    <lastmod>2020-01-21T08:30:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/post/second/</loc>
+    <lastmod>2020-01-21T08:29:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/posts/my-first-post/</loc>
+    <lastmod>2019-12-31T16:40:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ranger6.github.io/acme/tags/</loc>
+  </url>
+  
+</urlset>
